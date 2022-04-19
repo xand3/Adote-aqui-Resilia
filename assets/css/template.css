@@ -120,7 +120,16 @@ body {
 .mail {
     display: flex;
     flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
 }
 .social-img {
     width: 40px;
+    margin-right: 10px;
+}
+.social-img:first-child {
+    margin-left: 0;
+}
+.social a {
+    text-decoration: none;
 }
