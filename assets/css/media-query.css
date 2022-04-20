@@ -7,3 +7,12 @@
         flex-direction: column;
     }
 }
+@media (max-width: 540px) {
+    .banner {
+        flex-direction: column;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+    }
+
+}
