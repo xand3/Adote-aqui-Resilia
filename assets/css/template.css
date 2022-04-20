@@ -71,11 +71,12 @@ body {
     margin: 0 auto;
     flex-wrap: wrap;
     margin-bottom: 50px;
+    justify-content: space-around;
 }
 .pet {
     border-radius: 15px;
     border-style: none;
-    margin: 30px 30px;
+    margin: 30px auto;
     height: 270px;
     background-color: #f1eeee;
     box-shadow: -7px 8px 9px -1px #ccc;
