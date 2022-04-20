@@ -143,6 +143,18 @@ body {
     box-shadow: #d6d6e7 0 3px 7px inset;
     transform: translateY(2px);
 }
+.banner {
+    height: 500px;
+    margin-top: 20px;
+    background-color: #0374FF;
+}
+.banner-text h1{
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+
+
 .foot {
     display: flex;
     width: 100%;
